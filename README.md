@@ -17,7 +17,7 @@ Learn reactjs from scratch
             <div> </div> 
             <h1> </h1>
         </>` 
-    OR alternatively we can put all this inside a <div> as well as mentioned:
+    OR    alternatively we can put all this inside a <div> as well as mentioned:
     `return 
         <div>
             <div> </div> 
