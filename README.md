@@ -1,8 +1,8 @@
 # learning-react.js while doing it
 Learn reactjs from scratch
 
-# Understand the folder structure: 
-    - node_modules:  Self explantory  
+# Understand the folder structure:  
+    - node_modules:  Self explanto 
     - Public: Images, SVG, videos, etc static data will come here
     - src: 
         - assets: Static data can be kept here as well (For now)
