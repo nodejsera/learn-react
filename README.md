@@ -1,4 +1,4 @@
-# learning-react
+# learning-react.js
 Learn reactjs from start
 
 # Understand the folder structure-
