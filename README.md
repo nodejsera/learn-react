@@ -1,6 +1,6 @@
 # learning-react.js
 learning reactjs by wotking
-# Understand the folder structure of an react.js application
+# Understand the folder structure of an react.js app
 
     - node_modules:  Self explantory  
     - Public: Images, SVG, videos, etc static data will come here
