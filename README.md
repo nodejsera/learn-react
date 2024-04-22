@@ -1,5 +1,5 @@
 # learning-react.js
-learning reactjs on it
+learning reactjs on it sdkcns
 # Understand the folder structure of an react.js app
 
     - node_modules:  Self explantory  
