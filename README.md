@@ -1,5 +1,5 @@
 # learning-react.js
-Learning React.js from scratch
+Learning React.js from scratch something something
 # Understand the folder structure of an react app
 
     - node_modules:  Self explantory  
