@@ -1,5 +1,5 @@
 # learning-react.js
-Learning React.js from scratch
+Learning React.js from scratch something something
 
     - node_modules:  Self explantory  
     - Public: Images, SVG, videos, etc static data will come here
