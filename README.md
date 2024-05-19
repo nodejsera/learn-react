@@ -1,6 +1,5 @@
 # learning-react.js
 
-kjfdvksd
     - node_modules:  Self explantory  
     - Public: Images, SVG, videos, etc static data will come here
     - src: 
